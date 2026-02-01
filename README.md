@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![Uploading ChatGPT Image Feb 2, 2026, 12_18_23 AM.png…]()
+This project was bootstrapped with [Create React App]
 
 ## Available Scripts
 
@@ -69,4 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 
